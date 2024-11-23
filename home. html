@@ -1,0 +1,38 @@
+<!doctype html>
+<head>
+
+<title>TDDL</title>
+<link rel="icon"
+type="image/x-icon" href="https://instagram.fpsd2-1.fna.fbcdn.net/v/t1.15752-9/462544185_1766131647550615_1917518843935092726_n.jpg?stp=dst-jpg_s480x480&_nc_cat=102&ccb=1-7&_nc_sid=0024fc&_nc_ohc=A5R5W5s9XeQQ7kNvgFiVNua&_nc_zt=23&_nc_ht=instagram.fpsd2-1.fna&oh=03_Q7cD1QFVGFAA1bYuM101g7ahX3XGT0zQ0ekVru--RLA8X7g3JA&oe=6767DD54">
+<link rel="stylesheet" href="home.css">
+<script src="home.js"></script>
+
+</head>
+<body>
+
+<img class="firstPhoto" src="https://instagram.fpsd2-1.fna.fbcdn.net/v/t1.15752-9/462571904_1125212475894193_8547571699860265309_n.jpg?stp=dst-jpg_s480x480&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=0DMsiZz2J8kQ7kNvgFmRdRU&_nc_zt=23&_nc_ht=instagram.fpsd2-1.fna&oh=03_Q7cD1QE7U7ngGkbO2C_JxPOb3wPdxGPOeN7gbWOwoSCAjKTVyQ&oe=67681297">
+
+<h1 class="welcom">✨مرحباً بكم✨</h1>
+<h2 class="welcom">في موقع رواية</h2>
+<h3 class="welcom">☕حـاكـم الظـلام <span style="color: red;">الـشيـطـ🩸ـانـي</span>☕</h3>
+
+<h3 class="line1">↓↓↓↓↓</h3>
+ 
+ <img id="cata" class="ch" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/466504008_1493773044655084_1025172305458688356_n.png?stp=dst-png_s480x480&_nc_cat=103&ccb=1-7&_nc_sid=0024fc&_nc_ohc=RQNKhaaXxqEQ7kNvgFxcqDl&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QFY8SUoE03pq6dTupfR13LnSFZYGfupW1hODXtEOVzRGw&oe=676809D2" onclick="redirectToPage('characters.html')"><br>
+ 
+ <img id="cata" class="wep" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/467479216_1499534614089935_329331403006905084_n.jpg?stp=dst-jpg_s480x480&_nc_cat=111&ccb=1-7&_nc_sid=0024fc&_nc_ohc=PtuVM14AI2wQ7kNvgHmDGZ3&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEkp6kIY8OFK5_FRhMT-9-rijMp6sgEFh9bSyWMeGaN8g&oe=67680D01" onclick="redirectToPage('weapons.html')"><br>
+ 
+ <img id="cata" class="st" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462550326_922167296082624_5641574171844635253_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=Cp8A2s8pHc8Q7kNvgHptdnK&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEGE2tll0ksRpbNgStu8YwHd_gRNpsL6THqnwivGGuoEA&oe=6767F481" onclick="redirectToPage('skills.html')"<br>
+ 
+ <img id="cata" class="3s" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462559816_1246889113095653_4056648073941838080_n.png?_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_ohc=J2c7z06n3UUQ7kNvgFXLATf&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QFxT_QxVu4sESqZ3SbFhA3lv-Ih7i-L_YPstHYVd5_ouA&oe=676815A0" onclick="redirectToPage('spears.html')"><br>
+ 
+ <img id="cata" class="ky" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/466977207_449048808221994_6842638218015891938_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=0024fc&_nc_ohc=XcDppAA_uyQQ7kNvgGb_lTp&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QEpndtCBqxWM0mOxa42lgtXHEGUhtMeZcZ6_KfHdVV2kQ&oe=67680A23" onclick="redirectToPage('kuroyami.html')"><br>
+ 
+ <img id="cata" class="nov" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/462579627_546645368253385_2926488860621138128_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=0024fc&_nc_ohc=o36uNk_5R3gQ7kNvgFYRjvg&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.xx&oh=03_Q7cD1QH27YsSTDLiR1stPJWSFnsSiSqUqzIOvXx4MlgVZ9jtSQ&oe=676817DC" onclick="redirectToPage('novel.html')"><br>
+ 
+ <h3 class="line">0000</h3>
+ 
+ <h5>الـكـاتـب┇👑 الـسـلـف الـاكـبـر لعائلة كوروجامي <span style="color: red;">『يوغاشي🩸』</span></h5>
+ <h5>لمواقع تواصل الكاتب <a href="https://hv60a7.mimo.run/index.html">اضغط هنا</a></h5>
+
+</body>
