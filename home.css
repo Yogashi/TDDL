@@ -1,0 +1,39 @@
+body {
+ background-color: black;
+}
+
+.firstPhoto{
+border-radius: 180px;
+border: 2px solid purple;
+width: 300px;
+display: block;
+margin: 0 auto;
+}
+
+.welcom{
+color: purple;
+text-align: center;
+}
+
+.line1{
+color: black;
+background-color: purple;
+text-align: center;
+}
+
+#cata{
+width: 250px;
+border-radius: 80px;
+display: block;
+margin: 0 auto;
+}
+
+.line{
+color: purple;
+background-color: purple;
+}
+
+h5{
+color: white;
+text-align: right;
+}
