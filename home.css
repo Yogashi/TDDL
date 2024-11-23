@@ -11,6 +11,15 @@ body {
   font-family: Arial, sans-serif;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  min-height: 100vh; /* Make it fill the entire screen height */
+  padding: 10px; /* Add some padding around the edges */
+} 
+
 .firstPhoto {
   border-radius: 180px;
   border: 2px solid purple;
