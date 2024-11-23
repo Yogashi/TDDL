@@ -5,6 +5,15 @@ body {
  box-sizing: border-box;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  min-height: 100vh;
+  padding: 10px; 
+} 
+
 .firstPhoto{
 border-radius: 180px;
 border: 2px solid purple;
