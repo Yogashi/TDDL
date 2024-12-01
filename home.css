@@ -6,7 +6,8 @@ body {
 border-radius: 180px;
 border: 2px solid purple;
 width: 80%;
-align-items: center;
+display: grid;
+place-items: center;
 }
 
 .welcom{
@@ -24,7 +25,8 @@ text-align: center;
 width: 250px;
 border-radius: 80px;
 display: block;
-align-items: center;
+display: grid;
+place-items: center;
 }
 
 .line{
