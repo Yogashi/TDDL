@@ -5,7 +5,7 @@ body {
 .firstPhoto{
 border-radius: 180px;
 border: 2px solid purple;
-width: 300px;
+width: 80%;
 display: block;
 justify-content: center;
 align-items: center;
