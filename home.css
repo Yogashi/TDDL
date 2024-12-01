@@ -7,7 +7,6 @@ border-radius: 180px;
 border: 2px solid purple;
 width: 300px;
 display: block;
-margin: 0 auto;
 justify-content: center;
 align-items: center;
 }
@@ -27,7 +26,6 @@ text-align: center;
 width: 250px;
 border-radius: 80px;
 display: block;
-margin: 0 auto;
 justify-content: center; 
 align-items: center;
 }
